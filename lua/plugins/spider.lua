@@ -1,3 +1,8 @@
+-- Just ignore this plugin for now, not sure if I like it.
+if true then
+  return {}
+end
+
 return {
   "chrisgrieser/nvim-spider",
   opts = {},
